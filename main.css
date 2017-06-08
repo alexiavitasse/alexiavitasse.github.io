@@ -7,3 +7,6 @@ body{
 h1 {
     font-size: 100;
 }
+ul{
+  list-style: none;
+}
